@@ -14,5 +14,10 @@ que se establezca a través de una interfaz.
 <br/>-Labview 
 <br/>-Arduino toolkit (libreria para Labview)
 
+<h2>Imágenes</h2>
+<br/><h3>Componentes y puenteo del circuito</h3>
+<br/><img src='https://raw.githubusercontent.com/CarlosDevlp/SmartFan/master/im%C3%A1genes/diagrama.jpg' />
+<br/><h3>Interfaz al circuito en labview</h3>
+<br/><img src='https://raw.githubusercontent.com/CarlosDevlp/SmartFan/master/im%C3%A1genes/screenshot2.png' />
 
 <br/>Creado por Carlos Chávez Laguna.
